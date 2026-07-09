@@ -10,7 +10,7 @@ We build turnkey VM images so you can skip the lengthy, error-prone install proc
 
 - 🐧 **Two distros**: Arch Linux (AArch64) and NixOS, built for Apple Silicon
 - 🖥️ **Three desktops**: [Niri](https://github.com/YaLTeR/niri), [Sway](https://swaywm.org/), and [Hyprland](https://hypr.land/) (all Wayland, all tiling)
-- 📦 **Your hypervisor**: VMware Fusion and UTM today, Parallels coming soon
+- 📦 **Your hypervisor**: VMware Fusion, UTM, and Parallels
 - ⚙️ **Sensible defaults**: hotkeys, display scaling, guest tools, and the other quirks already worked out
 - 🎨 **Ready to rice**: usable out of the box, designed to be customized
 - 🏗️ **BYO images**: everything is built with [Packer](https://www.packer.io/) from declarative templates, so you can fork and build your own
