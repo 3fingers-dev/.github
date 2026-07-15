@@ -2,14 +2,14 @@
 
 **Prebuilt Arch Linux and NixOS virtual machine images for Apple Silicon Macs.**
 
-The name comes from the three-finger swipe you use to switch desktops on macOS.  With 3fingers, that same gesture flips you between macOS and a full-blown Linux desktop. We've been living this workflow since the Intel/Bootcamp/VMware Fusion days over a decade ago. Now that Apple Silicon is here, 3fingers brings back the best-of-both-worlds setup: real Linux, real Wayland desktops, running at native speed next to macOS.
+The name comes from the three-finger swipe gesture which is used to switch desktops on macOS.  With 3fingers, that same gesture flips you between macOS and a full-blown Linux desktop. We've been living this workflow since the Intel/Bootcamp/VMware Fusion days over a decade ago. Now that Apple Silicon is here, 3fingers brings back the best-of-both-worlds setup with the best Linux distros and desktop environments.
 
 ## What we do
 
 We build turnkey VM images so you can skip the lengthy, error-prone install process and go straight to a working, sensibly configured Linux desktop:
 
-- 🐧 **Two distros**: Arch Linux (AArch64) and NixOS, built for Apple Silicon
-- 🖥️ **Three desktops**: [Niri](https://github.com/YaLTeR/niri), [Sway](https://swaywm.org/), and [Hyprland](https://hypr.land/) (all Wayland, all tiling)
+- 🐧 **Two hot distros**: Arch Linux (AArch64) and NixOS, both built for Apple Silicon
+- 🖥️ **Several desktop choices**: [Niri](https://github.com/YaLTeR/niri) or [Hyprland](https://hypr.land/) (all Wayland, all tiling)
 - 📦 **Your hypervisor**: VMware Fusion, UTM, and Parallels
 - ⚙️ **Sensible defaults**: hotkeys, display scaling, guest tools, and the other quirks already worked out
 - 🎨 **Ready to rice**: usable out of the box, designed to be customized
