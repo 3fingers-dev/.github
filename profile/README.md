@@ -21,9 +21,10 @@ New here? Start with **Arch Linux + Niri**. It's our default image and the smoot
 
 | Repo | What it is |
 |------|------------|
-| [3fingers](https://github.com/3fingers-dev/3fingers) | Main repo: docs, Packer templates, and the rendering system that generates everything below |
-| [aarch-fusion](https://github.com/3fingers-dev/aarch-fusion) / [aarch-utm](https://github.com/3fingers-dev/aarch-utm) / [aarch-parallels](https://github.com/3fingers-dev/aarch-parallels) | Arch Linux templates per hypervisor |
-| [nixos-fusion](https://github.com/3fingers-dev/nixos-fusion) / [nixos-utm](https://github.com/3fingers-dev/nixos-utm) / [nixos-parallels](https://github.com/3fingers-dev/nixos-parallels) | NixOS templates per hypervisor |
+| [3fingers](https://github.com/3fingers-dev/3fingers) | Main repo: the Packer templates, values, and build pipeline for every image |
+| [3fingers-nix](https://github.com/3fingers-dev/3fingers-nix) | NixOS configuration payload (submodule of the main repo) |
+| [3fingers-ansible](https://github.com/3fingers-dev/3fingers-ansible) | Ansible post-install payload for Arch (submodule of the main repo) |
+| [docs](https://github.com/3fingers-dev/docs) | User documentation, served at [3fingers.dev/docs](https://3fingers.dev/docs) |
 
 ## Links
 
